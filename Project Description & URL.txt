@@ -1,0 +1,4 @@
+In this software, I have checked the My Account module under this account module I checked the register and login module. 
+Additionally, I created test scenarios and test cases and also execute test cases and bug reports.
+
+OpenCart Project Link:https: //demo.opencart.com/index.php?route=account/register
